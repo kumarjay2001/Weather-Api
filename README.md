@@ -18,3 +18,7 @@ How to Use
 2. Type in the name of the location you want to check the weather for in the search box and press enter. 
 3. The website will display the current weather conditions and forecast for that location. 
 4. Alternatively, you can allow the website to access your current location and the website will display the weather conditions and forecast for your current location automatically.
+
+
+Contributions
+If you have any suggestions for improvements or new features, feel free to open an issue or pull request on this repository. All contributions are welcome!
